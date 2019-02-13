@@ -72,7 +72,7 @@ public class ShopList {
 
 
         JOptionPane.showMessageDialog(null,""+builder2.toString());
-
+System.out.println("Job Done");
 
     }
 
